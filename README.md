@@ -9,7 +9,7 @@ Platforma przeglądarkowych gier edukacyjnych dla uczniów i nauczycieli. Umożl
 | Dokument | Opis | Link |
 |---|---|---|
 | User Stories | Historyjki użytkownika z kryteriami akceptacji (DoR) | [docs/user-stories/user-stories.md](docs/user-stories/user-stories.md) |
-| Use Cases | Przepływy użytkownika (user flows) | [docs/use-cases/use-cases.md](docs/use-cases/use-cases.md) |
+| Use Cases | Przepływy użytkownika (user flows) | [docs/use-case/use-case.md](docs/use-cases/use-cases.md) |
 | Model domeny | Encje, relacje i diagram modelu domeny | [docs/domain-model/domain-model.md](docs/domain-model/domain-model.md) |
 | Makiety UI | Makiety interfejsu użytkownika | [docs/ui-mockups/](docs/ui-mockups/) |
 | Baza danych | Schemat bazy danych, ERD i skrypty SQL | [docs/database/database.md](docs/database/database.md) |
@@ -45,7 +45,7 @@ Platforma przeglądarkowych gier edukacyjnych dla uczniów i nauczycieli. Umożl
 | UC-02 | Dodanie gry do kolekcji | Użytkownik zarejestrowany |
 | UC-03 | Tworzenie turnieju | Nauczyciel |
 
-→ [Diagramy user flows](docs/use-cases/use-cases.md)
+→ [Diagramy user flows](docs/use-case/use-case.md)
 
 ---
 
