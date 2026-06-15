@@ -1,7 +1,11 @@
 [database.md](https://github.com/user-attachments/files/28928575/database.md)
 # Model i schemat bazy danych — SciGames
 
-Baza danych kompatybilna z Microsoft SQL Server. Pełny skrypt: [schema.sql](./schema.sql)
+Baza danych kompatybilna z Microsoft SQL Server. Pełny skrypt: 
+[mssql.sql](./mssql.sql)
+
+oraz mysql:
+[mysql.sql](./mysql.sql)
 
 ## Diagram ERD
 

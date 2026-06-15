@@ -12,7 +12,7 @@ Platforma przeglądarkowych gier edukacyjnych dla uczniów i nauczycieli. Umożl
 | Use Cases | Przepływy użytkownika (user flows) | [docs/use-cases/use-cases.md](docs/use-cases/use-cases.md) |
 | Model domeny | Encje, relacje i diagram modelu domeny | [docs/domain-model/domain-model.md](docs/domain-model/domain-model.md) |
 | Makiety UI | Makiety interfejsu użytkownika | [docs/ui-mockups/](docs/ui-mockups/) |
-| Baza danych | Schemat bazy danych, ERD i skrypt SQL | [docs/database/database.md](docs/database/database.md) |
+| Baza danych | Schemat bazy danych, ERD i skrypty SQL | [docs/database/database.md](docs/database/database.md) |
 
 ---
 
@@ -67,7 +67,7 @@ Makiety interfejsu użytkownika zostaną dodane do folderu `docs/ui-mockups/`.
 
 ## Baza danych
 
-16 tabel w Microsoft SQL Server (T-SQL). Schemat obejmuje użytkowników, gry, grupy, kolekcje, turnieje, wyzwania, osiągnięcia oraz system punktów i logów.
+16 tabel w Microsoft SQL Server (T-SQL) lub mySql. Schemat obejmuje użytkowników, gry, grupy, kolekcje, turnieje, wyzwania, osiągnięcia oraz system punktów i logów.
 
 → [Model i schemat bazy danych](docs/database/database.md)
 
@@ -75,5 +75,5 @@ Makiety interfejsu użytkownika zostaną dodane do folderu `docs/ui-mockups/`.
 
 ## Technologie
 
-- Baza danych: Microsoft SQL Server
+- Baza danych: Microsoft SQL Server / MySql
 - Diagramy: draw.io, SSMS Database Diagram
