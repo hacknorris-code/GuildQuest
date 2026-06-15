@@ -59,9 +59,20 @@ System oparty na 15 encjach. Centrum modelu stanowi `Użytkownik` z przypisaną 
 
 ## Makiety UI
 
->  W przygotowaniu
+Makiety przedstawiają 8 głównych ekranów systemu:
 
-Makiety interfejsu użytkownika zostaną dodane do folderu `docs/ui-mockups/`.
+| Ekran | Opis |
+|---|---|
+| Strona główna | Lista gier z filtrowaniem i wyszukiwarką |
+| Szczegóły gry | Opis gry, oceny, komentarze, przycisk "Zagraj" |
+| Logowanie | Formularz logowania i rejestracji |
+| Profil | Punkty użytkownika, ulubione gry, osiągnięcia |
+| Grupy | Lista grup, dodawanie kodem, zarządzanie członkami |
+| Kolekcje | Przeglądanie kolekcji, tworzenie turnieju |
+| Konto i zabezpieczenia | Edycja emaila, hasła, daty urodzenia |
+| Rankingi turniejów | Wyniki graczy w turniejach według grup |
+
+→ [Makiety UI](docs/ui-mockups/mockups.md)
 
 ---
 
