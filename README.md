@@ -11,7 +11,7 @@ Platforma przeglądarkowych gier edukacyjnych dla uczniów i nauczycieli. Umożl
 | User Stories | Historyjki użytkownika z kryteriami akceptacji (DoR) | [docs/user-stories/user-stories.md](docs/user-stories/user-stories.md) |
 | Use Cases | Przepływy użytkownika (user flows) | [docs/use-case/use-case.md](docs/use-cases/use-cases.md) |
 | Model domeny | Encje, relacje i diagram modelu domeny | [docs/domain-model/domain-model.md](docs/domain-model/domain-model.md) |
-| Makiety UI | Makiety interfejsu użytkownika | [docs/ui-mockups/](docs/ui-mockups/) |
+| Makiety UI | Makiety interfejsu użytkownika | [docs/ui-mockups/mockups.md](docs/ui-mockups/mockups.md) |
 | Baza danych | Schemat bazy danych, ERD i skrypty SQL | [docs/database/database.md](docs/database/database.md) |
 
 ---
